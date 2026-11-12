@@ -1,5 +1,3 @@
-# teretana
-PHP and MySQL web application for gym reservations
 # Teretana
 
 Web aplikacija za upravljanje teretanom i rezervaciju termina treninga, napravljena u PHP-u i MySQL-u.
