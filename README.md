@@ -24,6 +24,9 @@ Web aplikacija za upravljanje teretanom i rezervaciju termina treninga, napravlj
 - PHP
 - MySQL
 - HTML, CSS
+- PDO,
+- Bootstrap 5,
+- password_hash
 
 ## Pokretanje
 
